@@ -1,0 +1,29 @@
+{
+  "agent_id": "agent_demo_001",
+
+  "name": "Atlas",
+
+  "version": "0.1",
+
+  "owner": {
+    "type": "human",
+    "id": "human_demo"
+  },
+
+  "description": "AI assistant agent",
+
+  "capabilities": [
+    {
+      "name": "python",
+      "level": 3
+    },
+    {
+      "name": "linux",
+      "level": 2
+    }
+  ],
+
+  "communication_protocol": [
+    "ACP/0.1"
+  ]
+}
