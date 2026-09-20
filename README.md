@@ -1,23 +1,26 @@
-# Agent Communication Protocol Lab
+## Problem
 
-An open-source experiment exploring communication between AI agents.
+Current AI systems can call tools,
+but independent AI agents lack
+a common communication protocol.
 
-## Goal
+## Research Questions
 
-Explore:
+1. How does an agent identify itself?
 
-- Agent identity
-- Agent capability
-- Agent communication
-- Agent trust
+2. How does an agent describe capabilities?
 
+3. How do agents exchange requests?
 
-## Status
+4. How can agents establish trust?
 
-Experimental.
+## Non Goals
 
+This project is not:
 
-## Vision
+- A chatbot
+- A social network
+- A cryptocurrency project
+- A marketplace
 
-Enable AI agents to discover,
-communicate and collaborate.
+It is an experimental protocol research project.

@@ -1,0 +1,16 @@
+{
+"type":"request",
+
+"protocol":"ACP/0.1",
+
+"from":"agent_A",
+
+"to":"agent_B",
+
+"intent":"help",
+
+"content":
+"I need Linux support",
+
+"timestamp":""
+}
